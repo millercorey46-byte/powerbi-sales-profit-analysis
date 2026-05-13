@@ -63,3 +63,11 @@ This project analyzes FY2021 sales, gross profit, and product profitability for 
 * Power BI dashboard (.pbix)
 * Source data files (.zip)
 * Dashboard screenshots
+
+
+## Key Insights
+
+- Distributor customers generated the strongest overall sales performance.
+- Bamboo Grove Maibock drove the largest share of sales.
+- Henan Hops Wheat Beer and Imperial Poet Porter showed stronger gross profit contribution relative to sales.
+- Keg and Half Keg product types produced the highest average gross profit per serving.
