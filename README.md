@@ -62,7 +62,7 @@ This project analyzes FY2021 sales, gross profit, and product profitability for 
 
 The solution uses a star schema dimensional model with Fact Sales as the central fact table connected to customer, product, date, and exchange rate dimensions.
 
-![Data Model](data-model.png)
+![Data Model](data-model.PNG)
 
 ## Project Files
 
