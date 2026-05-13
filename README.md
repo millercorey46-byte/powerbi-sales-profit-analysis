@@ -58,6 +58,12 @@ This project analyzes FY2021 sales, gross profit, and product profitability for 
 
 ![Product Type Profitability](product-type-profitability.PNG)
 
+## Data Model
+
+The solution uses a star schema dimensional model with Fact Sales as the central fact table connected to customer, product, date, and exchange rate dimensions.
+
+![Data Model](data-model.png)
+
 ## Project Files
 
 * Power BI dashboard (.pbix)
